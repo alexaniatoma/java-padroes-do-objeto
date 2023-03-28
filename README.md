@@ -18,9 +18,6 @@ Singleton
 
 Permitir a criação de uma única instancia de uma classe e fornecer um modo para recuperá-la.
 
-				Singleton
-Client
-			+static instance()
 
 Singleton tem uma instancia dele mesmo.
 
