@@ -13,7 +13,7 @@ Padrões Estruturais: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, 
 
 Praticando com Java Puro
 
-Singleton 
+-Singleton 
 <<Padrão Criacionais>>
 
 Permitir a criação de uma única instancia de uma classe e fornecer um modo para recuperá-la.
@@ -21,13 +21,13 @@ Permitir a criação de uma única instancia de uma classe e fornecer um modo pa
 
 Singleton tem uma instancia dele mesmo.
 
-Strategy
+--Strategy
 <<Padrão Comportamental>>
 
 Simplificar a variação de algoritmos para a resolução de um mesmo problema.
 exemplo: mover robo;
 
-Façade
+---Façade
 <<Padrão Estrutural>>
 
 Prover uma interface que reduza a complexidade nas integrações com subsistemas.
